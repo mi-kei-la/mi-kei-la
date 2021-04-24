@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **full stack development at Holberton School**
 - 😄 Pronouns: **she/her**
-- 💬 Ask me about **scouts**
+- 💬 Ask me about **scouts**, **C**, **visual communication design**
 - 📫 How to reach me: [Twitter](https://twitter.com/mi_kei_la), [LinkedIn](https://www.linkedin.com/in/micaela-percovich/), [Medium](https://medium.com/@mi_kei_la)
 - ⚡ Fun fact: **I don't like napping**
 
