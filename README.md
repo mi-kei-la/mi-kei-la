@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Micaela Percovich</h1>
-<h3 align="center">Programming student with a passion for design and problem solving</h3>
+<h3 align="center">Full Stack programmer with a passion for problem solving</h3>
 
-- 🌱 I’m currently learning **full stack development at Holberton School**
+- 🌱 I’m currently learning **JavaScript and NodeJS**
 - 😄 Pronouns: **she/her**
-- 💬 Ask me about **scouts**, **C**, **visual communication design**
-- 📫 How to reach me: [Twitter](https://twitter.com/mi_kei_la), [LinkedIn](https://www.linkedin.com/in/micaela-percovich/), [Medium](https://medium.com/@mi_kei_la)
+- 💬 Ask me about **scouts**, **C**, **design as a problem-solving methodology**
+- 📫 How to reach me: [Twitter](https://twitter.com/mi_kei_la), [LinkedIn](https://www.linkedin.com/in/micaela-percovich/)
 - ⚡ Fun fact: **I don't like napping**
 
 <h3 align="left">Languages and Tools:</h3>
