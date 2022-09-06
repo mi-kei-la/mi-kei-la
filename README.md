@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Micaela Percovich</h1>
 <h3 align="center">Backend developer with a passion for learning and problem solving</h3>
 
-- 🌱 Fluent in TypeScript, Python, English and Spanish
+- 🌱 Fluent in TypeScript, Python. C is a bit rusty
 - 💬 Interested in software architecture, and design as a problem-solving methodology
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/micaela-percovich/)
 
